@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252168277247",
+    "project_id": "sporty-a4b1d",
+    "storage_bucket": "sporty-a4b1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252168277247:android:ff3ec903e4bd84641290ca",
+        "android_client_info": {
+          "package_name": "com.scrip0.sporty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252168277247-ivh6nl8f8h440cd72hqn6sgv9qr7l0kj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBohOiRuxV8mI6OMFgvZex8h81ZIFdp464"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252168277247-ivh6nl8f8h440cd72hqn6sgv9qr7l0kj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
