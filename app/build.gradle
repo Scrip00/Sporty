@@ -3,7 +3,7 @@ plugins {
     id 'org.jetbrains.kotlin.android'
     id 'com.google.gms.google-services'
     id 'kotlin-kapt'
-    id 'com.google.dagger.hilt.android' version '2.42' apply false
+    id 'com.google.dagger.hilt.android'
 }
 
 android {

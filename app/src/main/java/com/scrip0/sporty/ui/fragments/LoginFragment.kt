@@ -1,4 +1,4 @@
-package com.scrip0.sporty.ui
+package com.scrip0.sporty.ui.fragments
 
 import androidx.fragment.app.Fragment
 import com.scrip0.sporty.R
